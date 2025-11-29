@@ -193,7 +193,7 @@ These writeups are educational in nature and represent analysis of controlled ch
 
 ---
 
-**Author:** Security Investigation Series  
+**Author:** Regaan  
 **Challenge Platform:** OffSec Echo Response  
 **Completion Date:** November 2025  
 **Total Writeups:** 8 comprehensive investigations  
